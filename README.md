@@ -1,46 +1,46 @@
 <!--
-Muhammad Aashir Tariq, AI Engineer, SaaS Architect, Full Stack Developer.
-Founder and CEO at Afnexis (https://afnexis.com). Senior Full Stack AI Engineer at My Medical Records.ai.
+Muhammad Aashir Tariq, Senior Full Stack AI Engineer, SaaS Architect.
+Senior Full Stack AI Engineer at My Medical Records.ai. Runs Afnexis (https://afnexis.com), an independent AI engineering practice.
 Master's in Artificial Intelligence (FAST-NUCES). Based in Pakistan.
-GitHub: https://github.com/mashr9980 | LinkedIn: https://www.linkedin.com/in/muhammad-aashir-tariq-314769405/
-Contact: aashir@afnexis.com | WhatsApp: +1(646)379-7856
+GitHub: https://github.com/mashr9980 | LinkedIn: https://www.linkedin.com/in/muhammad-aashir-tariq/
+Contact: mashr9980@gmail.com | WhatsApp: +92(300)8808985
 -->
 
 <h1 align="center">Hi, I'm Muhammad Aashir Tariq</h1>
-<h3 align="center">Founder and CEO at <a href="https://afnexis.com">Afnexis</a> | Senior Full Stack AI Engineer | SaaS Architect</h3>
+<h3 align="center">Expert AI Engineer | LLM, RAG, Agentic AI | Generative AI &amp; Machine Learning | Python, LangChain | HIPAA Healthcare AI | Remote, Contract-Ready</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-aashir-tariq-314769405/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Aashir%20Tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Aashir Tariq on LinkedIn"/></a>
-  <a href="https://afnexis.com"><img src="https://img.shields.io/badge/Afnexis-AI%20Development%20Company-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Afnexis"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-aashir-tariq/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Aashir%20Tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Aashir Tariq on LinkedIn"/></a>
+  <a href="https://afnexis.com"><img src="https://img.shields.io/badge/Afnexis-AI%20Engineering%20Practice-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Afnexis"/></a>
   <a href="https://github.com/mashr9980"><img src="https://img.shields.io/badge/GitHub-mashr9980-181717?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad Aashir Tariq on GitHub"/></a>
   <img src="https://img.shields.io/badge/Profile%20Views-2341-0e75b6?style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <a href="mailto:aashir@afnexis.com"><img src="https://img.shields.io/badge/Email-aashir@afnexis.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/16463797856"><img src="https://img.shields.io/badge/WhatsApp-%2B1%20646%20379%207856-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:mashr9980@gmail.com"><img src="https://img.shields.io/badge/Email-mashr9980@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/923008808985"><img src="https://img.shields.io/badge/WhatsApp-%2B92%20300%208808985-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ---
 
 ## About
 
-I am Muhammad Aashir Tariq, an AI Engineer and SaaS architect based in Pakistan. I build production AI systems end to end, from LLM agents and RAG pipelines to the full stack applications that ship them. I hold a Master's degree in Artificial Intelligence from FAST-NUCES and a Bachelor's in Computer Science from COMSATS University Islamabad.
+I am Muhammad Aashir Tariq, a Senior Full Stack AI Engineer and SaaS architect based in Pakistan. I build production AI systems end to end, from LLM agents and RAG pipelines to the full stack applications that ship them. I hold a Master's degree in Artificial Intelligence from FAST-NUCES and a Bachelor's in Computer Science from COMSATS University Islamabad.
 
-I am the Founder and CEO of [Afnexis](https://afnexis.com), an AI and software development company delivering intelligent solutions in healthcare, fintech, travel, gaming, and enterprise. I also serve as Senior Full Stack AI Engineer at My Medical Records.ai, leading development of a HIPAA compliant SaaS platform for medical records management.
+I am a Senior Full Stack AI Engineer at My Medical Records.ai, leading development of a HIPAA compliant SaaS platform for medical records management. I also run [Afnexis](https://afnexis.com), my independent AI engineering practice, through which I take on contract AI work for US and Saudi teams.
 
-- Currently building [Afnexis](https://afnexis.com) and My Medical Records.ai
+- Currently building at My Medical Records.ai and taking contract work through [Afnexis](https://afnexis.com)
 - Specialties include LLMs, RAG, agents, ASR and TTS, fine tuning, MLOps, and full stack SaaS
-- Open to collaboration on Generative AI products, AI SaaS, and open source LLM tooling
+- Open to contract engagements through Deel or Remote.com, or direct hire. Remote only, no relocation
 
 ---
 
 ## Contact
 
-- Email: [aashir@afnexis.com](mailto:aashir@afnexis.com)
-- WhatsApp: [+1 646 379 7856](https://wa.me/16463797856)
+- Email: [mashr9980@gmail.com](mailto:mashr9980@gmail.com)
+- WhatsApp: [+92 300 8808985](https://wa.me/923008808985)
 - Website: [afnexis.com](https://afnexis.com)
-- LinkedIn: [linkedin.com/in/muhammad-aashir-tariq-314769405](https://www.linkedin.com/in/muhammad-aashir-tariq-314769405/)
+- LinkedIn: [linkedin.com/in/muhammad-aashir-tariq](https://www.linkedin.com/in/muhammad-aashir-tariq/)
 - GitHub: [github.com/mashr9980](https://github.com/mashr9980)
 
 ---
@@ -51,9 +51,9 @@ I am the Founder and CEO of [Afnexis](https://afnexis.com), an AI and software d
 *Jul 2025 to Present, Remote, United States*
 Leading development of a HIPAA compliant SaaS platform that centralizes patient medical records with AI powered summaries and a health Q&A chatbot. Built the full stack application in Python and Next.js with OpenAI API integration for intelligent document processing. Implemented secure doctor and patient record sharing and managed production infrastructure on Azure DevOps.
 
-**Founder and CEO**, [Afnexis](https://afnexis.com)
-*May 2025 to Present, Colorado, United States, Remote*
-Founded [Afnexis](https://afnexis.com), an AI development company delivering production LLM systems, AI SaaS MVPs, and full stack agentic products to enterprise clients across North America and beyond. Afnexis serves healthcare, fintech, gaming, travel, and hospitality industries with SOC 2 and HIPAA compliant solutions.
+**Founder and Senior AI Engineer**, [Afnexis](https://afnexis.com)
+*May 2025 to Present, Self-employed, Remote*
+Afnexis is my AI engineering practice. I take on contract AI work through it for US and Saudi teams. What I build: LLM applications, RAG pipelines, AI agents, voice AI calling systems, and workflow automation. Python, FastAPI, LangChain, OpenAI API, Anthropic Claude API, Next.js, PostgreSQL, Azure. Available for contract engagements through Deel or Remote.com, or direct.
 
 **Senior AI Engineer**, ESAP AI
 *Jan 2025 to Jun 2025, Saudi Arabia, Remote*
@@ -264,4 +264,4 @@ A snapshot of recent work. Full list available on my [repositories](https://gith
 
 ---
 
-<sub>Muhammad Aashir Tariq, AI Engineer, LLM Engineer, Full Stack Developer, SaaS Architect, MVP Developer, Founder and CEO of <a href="https://afnexis.com">Afnexis</a>, Senior Full Stack AI Engineer at My Medical Records.ai, Master's in Artificial Intelligence from FAST-NUCES, based in Pakistan. Email: aashir@afnexis.com | WhatsApp: +1 646 379 7856</sub>
+<sub>Muhammad Aashir Tariq, Senior Full Stack AI Engineer, LLM Engineer, SaaS Architect, MVP Developer, Senior Full Stack AI Engineer at My Medical Records.ai, independent AI engineering practice at <a href="https://afnexis.com">Afnexis</a>, Master's in Artificial Intelligence from FAST-NUCES, based in Pakistan. Email: mashr9980@gmail.com | WhatsApp: +92 300 8808985</sub>
